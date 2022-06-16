@@ -1,3 +1,5 @@
+## Descargo y procedo a revisar y calificar.
+
 from registro import acciones_a_realizar
 
 
